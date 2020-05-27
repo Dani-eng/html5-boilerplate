@@ -4,6 +4,7 @@
 node_modules
 dist
 .cache
+<<<<<<< HEAD
 
 # ignore file
 /credentials.py
@@ -13,3 +14,6 @@ dist
 
 #ignore txt files inside folder
 text/*.txt
+=======
+/credentials.py
+>>>>>>> add-bootstrap
